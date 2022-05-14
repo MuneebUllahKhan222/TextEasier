@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texteasier/static/css/main.f4731119.css",
+    "main.js": "/texteasier/static/js/main.7cef3856.js",
+    "static/js/787.96e11de9.chunk.js": "/texteasier/static/js/787.96e11de9.chunk.js",
+    "index.html": "/texteasier/index.html",
+    "main.f4731119.css.map": "/texteasier/static/css/main.f4731119.css.map",
+    "main.7cef3856.js.map": "/texteasier/static/js/main.7cef3856.js.map",
+    "787.96e11de9.chunk.js.map": "/texteasier/static/js/787.96e11de9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4731119.css",
+    "static/js/main.7cef3856.js"
+  ]
+}
